@@ -1,13 +1,6 @@
-# UPIEEC
-Feng Chia University UPIEEC CodeTeam
-<<<<<<< HEAD
-<<<<<<< HEAD
-I'm Ray.
+# Feng Chia University UPIEEC CodeTeam
 
-I'm Waylon.Y.
-=======
-ooooooooooooooooo
->>>>>>> develop
-=======
-ooooooooooooooooo
->>>>>>> develop
+## Explain
+Null
+
+
